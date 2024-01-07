@@ -1,0 +1,42 @@
+
+.title-image{
+    margin-top: 20px;
+    height: 250px;
+    width: auto;
+    border-radius: 30px;
+    
+}
+.middle-container{
+    text-align: center;
+    margin: 15px;
+}
+.intro{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.html{
+    height: 200px;
+    width: 200px;
+}
+.footer{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+    margin-top: 2%;
+}
+.contact-info{
+    text-align: center; 
+}
+.links{
+    color: rgb(45, 113, 90);
+}
+.skill-set{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 200px;
+}
+.heading-3{
+    display: flex;
+    justify-content: center;
+}
